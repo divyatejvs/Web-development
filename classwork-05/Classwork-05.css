@@ -1,0 +1,45 @@
+body{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+header,footer{
+    background-color:rgb(187, 121, 245);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+nav.toggle1{
+    background-color:aquamarine;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+nav.toggle{
+    background-color: antiquewhite;
+}
+
+img.image1{
+    border-style: ridge;
+    margin-top: 0.25rem;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-right: 0.25rem;
+    padding-left: 0.25rem;
+}
+
+div.pd,div.c,div.sa{
+    border-style: solid;
+}
+
+h3{
+    background-color: rgb(77, 80, 248);
+}
+
+div.but{
+    background-color: rgb(77, 80, 248);
+}
